@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edit 2x2 UGC"
+  short_description: "Edit UGC videos with a 2x2 collage and cutouts"
+  default_prompt: "Use $edit-2x2-ugc to edit my supplied footage with a 2x2 opening, steady presenter cutouts, and phrase captions."
