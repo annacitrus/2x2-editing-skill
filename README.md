@@ -106,4 +106,4 @@ I highly suggest watching through specifically looking for repeating words/phras
 
 ## 6. Adjust the skill for your needs
 
-If there is a request or problem you are frequently facing. You can just ask your agent to change the skill on your personal device.
+If there is a request or problem you are frequently facing. You can just ask your agent to change the skill on your personal device. You can also reach out to me on Instagram at @annacitrus. 
