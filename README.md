@@ -4,7 +4,7 @@ Turn your raw talking-head footage into a vertical video with a four-image backg
 
 This is an instruction pack for an AI editing agent. It works with Claude Code or Codex in an environment that can access your footage, run editing tools, and render video. The repository is called `2x2-editing-skill`; the skill itself is named **`edit-2x2-ugc`**.
 
-## The process in 20 seconds
+## The process
 
 You give the agent your footage, images, and demos. It picks the best takes, cuts pauses and mistakes, adds your cutout over the visuals, and builds captions and music. Then it checks the edit and exports an MP4. Watch it, tell it what to change, and ask for a revised export.
 
