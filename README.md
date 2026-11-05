@@ -102,4 +102,8 @@ Watch the export and describe changes with a timestamp or exact line:
 
 > At 0:12, replace the background with circuit-board.jpg. Keep the presenter size the same. Shorten the pause after “try this,” then export a revised MP4.
 
-The skill calls for the agent to check speech cuts, lip sync, captions, cutout edges, demo readability, and audio before delivery. Your review is still useful for creative choices. Keep the editable project if you want to make changes later.
+I highly suggest watching through specifically looking for repeating words/phrases and deadspace that is not cut out.
+
+## 6. Adjust the skill for your needs
+
+If there is a request or problem you are frequently facing. You can just ask your agent to change the skill on your personal device.
